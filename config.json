@@ -1,0 +1,9 @@
+{
+  "threads_count": 5,
+  "stagger_delay_ms": 10000,
+  "action_delay_min_ms": 3000,
+  "action_delay_max_ms": 7000,
+  "account_delay_min_ms": 30000,
+  "account_delay_max_ms": 60000,
+  "auto_restart_hour_vn": 7
+}
